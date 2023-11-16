@@ -5,6 +5,9 @@ Welcome to the Cricket Score Card and Stats Tracker project! This application pr
 🏏 Live Cricket Score Card: Stay updated with real-time scores of ongoing matches.
 📊 Point Table: View the latest standings and rankings of teams.
 📅 Match History: Explore details of past matches, including scores, players, and outcomes.
+
+
+
 ****Technologies Used**
 Java Spring Boot: The robust backend framework for building scalable and efficient applications.
 Jsoup: A Java library for web scraping, enabling dynamic data extraction from cricket websites.
